@@ -1,1 +1,1 @@
-# These are the assignments of the python machine learning class in NTU
+# Assignments of the python machine learning class in NTU
