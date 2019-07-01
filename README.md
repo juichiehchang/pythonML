@@ -2,7 +2,7 @@
 
 ## HW4
 <pre>
-“107年上半年造成人員當場或24小時內死亡之交通事故資料”(A1類)析  
+“107年上半年造成人員當場或24小時內死亡之交通事故資料”(A1類)分析  
 Traffic accidents data analysis using pandas  
 </pre>
 
